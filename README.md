@@ -6,7 +6,7 @@
 
 **Website**: [The Inspired Home Show: Connect365](https://app.theinspiredhomeshow.com/Connect365/Results/ByExpo?searchType=destination&expo=clean+%2B+contain&page=1)
 
-**Outcome**: Extracted 3,188 records
+**Outcome**: Extracted [3,188 records](https://docs.google.com/spreadsheets/d/1UZfNVvp1fL_kBIbQTxcSAv_O4VG6sgdfA-_Zr849qg0/edit?usp=drive_link)
 
 **1. Client Request:**
 Extract data for all companies (A-Z) listed under the "Clean + Contain" category on The Inspired Home Show's website.
